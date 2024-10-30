@@ -1,0 +1,2 @@
+_G.Team = "Pirate" --Pirate or Marine
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KOBENFF/sdfd/refs/heads/main/Koatta.txt"))()
