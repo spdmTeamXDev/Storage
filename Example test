@@ -3,12 +3,12 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-	Title = "SCRIPTMAUSRB",
-	SubTitle = "ЛУЧШИЙ ПРИВАТНЫЙ СКРИПТ",
+	Title = "ADOPT ME",
+	SubTitle = "Check our channel ",
 	TabWidth = 120,
 	Size = UDim2.fromOffset(550, 350),
 	Acrylic = false, 
-	Theme = "Amethyst",
+	Theme = "Acrylic",
 	MinimizeKey = Enum.KeyCode.LeftControl
 })
 
